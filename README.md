@@ -1,7 +1,7 @@
 # People Analytics BRI Hackathon 2021
 
 Collaborator : 
-- Muhammad Hussein (@sein04)
-- Moch. Chamdani Mustaqim (@chamisfum)
-- Moch Shandy Tsalasa Putra (@shandytp)
-- Ilham Setiyo Kantomo (@IlhamSet)
+- [sein04](https://github.com/sein04)
+- [chamisfum](https://github.com/chamisfum)
+- [shandytp](https://github.com/shandytp)
+- [IlhamSet](https://github.com/IlhamSet)
